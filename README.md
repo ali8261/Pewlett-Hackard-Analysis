@@ -21,5 +21,7 @@ Result
  
 2.	Employees Eligible for Mentorship
 •	Only 1549 total employees qualify for mentorship/training for an internal promotion.
+
+
 Summary
 Based on the analysis around 90,000 employees are eligible to retire, yet only around 1500 employees are qualified for mentorship/training, which will have huge impact in company once a majority of eligible employees retire.
